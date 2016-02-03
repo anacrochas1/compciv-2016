@@ -51,14 +51,14 @@ link2 = open(fname, 'r')
 line_num = 0
 for x in link2:
     line_num += 1
-link1.close()
+link2.close()
 
 fname = os.path.join('tempdata', 'mapzen', 'stanford.json')
-link1 = open(fname, 'r')
-mapzen = link1.read()
+link2 = open(fname, 'r')
+mapzen = link2.read()
 len(mapzen)
 
-link1.close()
+link2.close()
 
 # # Output
 
