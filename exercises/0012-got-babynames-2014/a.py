@@ -6,12 +6,12 @@ if not os.path.exists("tempdata"):
 
 # # first file
 
-if not os.path.exists("tempdata/ssa-babynames-nationwide-2014.txt"):
-	os.makedirs("tempdata/ssa-babynames-nationwide-2014.txt")
+if not os.path.exists("0012-got-babynames-2014/tempdata"):
+	os.makedirs("0012-got-babynames-2014/tempdata")
 
 burl = 'http://stash.compciv.org/ssa_baby_names/ssa-babynames-nationwide-2014.txt'
 resp = requests.get(burl)
-bname = "ssa-babynames-nationwide-2014.txt"
+bname = "tempdata/ssa-babynames-nationwide-2014.txt"
 bfile = open(bname, 'wb')
 bfile.write(resp.content)
 bfile.close()
@@ -30,6 +30,6 @@ blink.close()
 
 # # Output
 
-print("There are", line_num1, "lines in")
+print("There are", line_num, "lines in", bname)
 
 
