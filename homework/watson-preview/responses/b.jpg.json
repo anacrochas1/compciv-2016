@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"b.jpg",
+	 "scores":[
+		 {"classifier_id":"Beverage","name":"Beverage","score":0.673866},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.653306},
+		 {"classifier_id":"Bird","name":"Bird","score":0.641681},
+		 {"classifier_id":"Magenta","name":"Magenta","score":0.614359},
+		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.614042},
+		 {"classifier_id":"Mug","name":"Mug","score":0.612684},
+		 {"classifier_id":"Track_Scene","name":"Track_Scene","score":0.610111},
+		 {"classifier_id":"Statue_of_Liberty","name":"Statue_of_Liberty","score":0.581711},
+		 {"classifier_id":"Activity","name":"Activity","score":0.555772},
+		 {"classifier_id":"White","name":"White","score":0.549904},
+		 {"classifier_id":"Kindergarten_Classroom","name":"Kindergarten_Classroom","score":0.523164},
+		 {"classifier_id":"Girl","name":"Girl","score":0.521182},
+		 {"classifier_id":"News_Studio","name":"News_Studio","score":0.509297},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.505129},
+		 {"classifier_id":"Person","name":"Person","score":0.501605},
+		 {"classifier_id":"People_Activity","name":"People_Activity","score":0.501137}]}]
+}

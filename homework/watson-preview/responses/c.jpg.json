@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"c.jpg",
+	 "scores":[
+		 {"classifier_id":"Gray","name":"Gray","score":0.755921},
+		 {"classifier_id":"Placental_Mammal","name":"Placental_Mammal","score":0.618557},
+		 {"classifier_id":"Black","name":"Black","score":0.602331},
+		 {"classifier_id":"Explosion","name":"Explosion","score":0.591795},
+		 {"classifier_id":"Vertebrate","name":"Vertebrate","score":0.580492},
+		 {"classifier_id":"Cat","name":"Cat","score":0.566619},
+		 {"classifier_id":"Lion","name":"Lion","score":0.554519},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.541944},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.535521},
+		 {"classifier_id":"Statue_of_Liberty","name":"Statue_of_Liberty","score":0.514191},
+		 {"classifier_id":"Dancing","name":"Dancing","score":0.507379},
+		 {"classifier_id":"Male_Adult","name":"Male_Adult","score":0.506789},
+		 {"classifier_id":"Passageway","name":"Passageway","score":0.502527},
+		 {"classifier_id":"Vivarium","name":"Vivarium","score":0.501915}]}]
+}

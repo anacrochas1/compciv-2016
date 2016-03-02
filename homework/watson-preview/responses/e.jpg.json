@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"e.jpg",
+	 "scores":[
+		 {"classifier_id":"Gray","name":"Gray","score":0.708711},
+		 {"classifier_id":"White","name":"White","score":0.699549},
+		 {"classifier_id":"Appliance","name":"Appliance","score":0.653103},
+		 {"classifier_id":"Snow_Scene","name":"Snow_Scene","score":0.626792},
+		 {"classifier_id":"Coffee_Maker","name":"Coffee_Maker","score":0.619924},
+		 {"classifier_id":"Clothing","name":"Clothing","score":0.613193},
+		 {"classifier_id":"Ice_Maker","name":"Ice_Maker","score":0.599794},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.591024},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.584135},
+		 {"classifier_id":"Catacomb","name":"Catacomb","score":0.557674},
+		 {"classifier_id":"Fist_Fighting","name":"Fist_Fighting","score":0.551594},
+		 {"classifier_id":"Discotheque","name":"Discotheque","score":0.5481},
+		 {"classifier_id":"Birthday_Party","name":"Birthday_Party","score":0.537827},
+		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.516324},
+		 {"classifier_id":"Girl","name":"Girl","score":0.515008},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.501105}]}]
+}

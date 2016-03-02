@@ -1,0 +1,17 @@
+{"images":[
+	{"image":"a.jpg",
+	 "scores":[
+		 {"classifier_id":"Beverage","name":"Beverage","score":0.727934},
+		 {"classifier_id":"Mug","name":"Mug","score":0.67276},
+		 {"classifier_id":"Clothing","name":"Clothing","score":0.668712},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.646578},
+		 {"classifier_id":"Dancing","name":"Dancing","score":0.642492},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.600631},
+		 {"classifier_id":"Banners","name":"Banners","score":0.593351},
+		 {"classifier_id":"Nursery","name":"Nursery","score":0.592431},
+		 {"classifier_id":"White","name":"White","score":0.587093},
+		 {"classifier_id":"Biathlon","name":"Biathlon","score":0.578284},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.561109},
+		 {"classifier_id":"Closet","name":"Closet","score":0.556635},
+		 {"classifier_id":"Medical_Space","name":"Medical_Space","score":0.544114}]}]
+}

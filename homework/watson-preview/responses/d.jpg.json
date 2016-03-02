@@ -1,0 +1,17 @@
+{"images":[
+	{"image":"d.jpg",
+	 "scores":[
+		 {"classifier_id":"Gray","name":"Gray","score":0.722303},
+		 {"classifier_id":"White","name":"White","score":0.667239},
+		 {"classifier_id":"Vertebrate","name":"Vertebrate","score":0.572494},
+		 {"classifier_id":"Placental_Mammal","name":"Placental_Mammal","score":0.569803},
+		 {"classifier_id":"Anechoic_Chamber","name":"Anechoic_Chamber","score":0.569525},
+		 {"classifier_id":"Animal","name":"Animal","score":0.563735},
+		 {"classifier_id":"Boxing","name":"Boxing","score":0.563144},
+		 {"classifier_id":"Catacomb","name":"Catacomb","score":0.552837},
+		 {"classifier_id":"Bird","name":"Bird","score":0.546486},
+		 {"classifier_id":"Girl","name":"Girl","score":0.542481},
+		 {"classifier_id":"Medical_Space","name":"Medical_Space","score":0.532836},
+		 {"classifier_id":"Art_Gallery","name":"Art_Gallery","score":0.507034},
+		 {"classifier_id":"Fist_Fighting","name":"Fist_Fighting","score":0.501679}]}]
+}
