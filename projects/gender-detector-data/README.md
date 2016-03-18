@@ -6,9 +6,6 @@ More women than men overall as employees: 375 women and 262 men.
 More women than men in every salary level, from 50,000 to 250,000.
 The salary gap between men and women is smaller when salaries range from 125,001 to 250,000.
 
-#The scripts
-TKTK TODOTOD
-
 #fetch_gender_data.py
 
 Downloads the latest batch of baby name data from the Social Security Administration and dumps it into the tempdata/babynames folder
